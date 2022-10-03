@@ -1,0 +1,4 @@
+m = int(input())
+print("The next number for the numer", m, "is", m+1, end=".")
+print(sep='\n')
+print("The pervious number for the numer", m, "is", m-1, end=".")
